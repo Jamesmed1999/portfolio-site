@@ -10,7 +10,7 @@ export const Hero = () => {
             stuff and things using react and node</p>
             <a href="mailto" className={styles.contactBtn}>Contact Me</a>
         </div>
-        <img src={getimageUrl("2022_ani_cartoon_27.jpg")} alt="hero me" className={styles.heroImg}/>
+        <img src={getimageUrl("2022_ani_cartoon_27.png")} alt="hero me" className={styles.heroImg}/>
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
     </section>
