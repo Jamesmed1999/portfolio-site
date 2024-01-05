@@ -3,6 +3,7 @@ import styles from "./App.module.css"
 import { Navbar } from "./components/Navbar"
 import { Hero } from "./components/hero"
 import { About } from "./components/About"
+import { Experience } from "./components/experience"
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Experience />
       </div>
     </>
   )
