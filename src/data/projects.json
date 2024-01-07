@@ -1,0 +1,18 @@
+[
+    {
+        "title": "CreatorVerse",
+        "imageSrc": "projects/pg1.png",
+        "description": "A fullstack CRUD application for content creators built from scratch",
+        "skills": ["React.js","Supabase","Picocss","Node.js"],
+        "demo": "www.google.com",
+        "code": "github.com"
+    },
+    {
+        "title": "S.H.I.P: Legend of Battle",
+        "imageSrc": "projects/pg1.png",
+        "description": "Final Project for Advanced Game design. Explore 3 thrilling levels and collect the cones of power",
+        "skills": ["Unity","C#","PhotoShop","Blender"],
+        "demo": "www.google.com",
+        "code": "github.com"
+    }
+]
